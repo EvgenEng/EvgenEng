@@ -53,13 +53,6 @@ I focus on designing **reliable, scalable backend services**, optimizing perform
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenEng&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenEng&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Current Focus
 
