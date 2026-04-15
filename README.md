@@ -76,9 +76,20 @@ I specialize in designing **scalable, fault-tolerant backend services**, working
 
 ## 📫 Contact Me
 
-- Telegram: https://t.me/EvgenEng  
-- LinkedIn: https://www.linkedin.com/in/evgenii-chaplygin-6867373a9  
-- Habr: https://habr.com/ru/users/evgenii-chaplygin/  
+<p align="left">
+  <a href="https://t.me/EvgenEng">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:evgewa3511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/evgenii-chaplygin-6867373a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://habr.com/ru/users/evgenii-chaplygin/">
+    <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -181,9 +192,20 @@ Backend-разработчик с **5+ годами инженерного оп�
 
 ## 📫 Контакты
 
-- Telegram: https://t.me/EvgenEng  
-- LinkedIn: https://www.linkedin.com/in/evgenii-chaplygin-6867373a9  
-- Habr: https://habr.com/ru/users/evgenii-chaplygin/  
+<p align="left">
+  <a href="https://t.me/EvgenEng">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:evgewa3511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/evgenii-chaplygin-6867373a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://habr.com/ru/users/evgenii-chaplygin/">
+    <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
