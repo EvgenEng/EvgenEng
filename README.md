@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Evgenii Chaplygin
+# 👋 Hi, I'm Evgenii
 
 ### Java Backend Developer | Distributed Systems | CRM & Enterprise Applications
 
